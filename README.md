@@ -18,7 +18,7 @@ Check out a short video demonstrating how to use this application - https://driv
 
 ### Webpage Screenshot
 
-![alt text](readme-screenshot.png)
+![alt text](readmeScreenshot.png)
 
 ## Credits
 
