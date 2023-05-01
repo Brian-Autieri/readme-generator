@@ -1,26 +1,33 @@
-
 # README Generator
+
 ## Description
-This application generates a README.md file for the user via the integrated terminal in node.js.
-* [Installation](#installation)
-* [Usage](#usage)
-* [License](#license)
-* [Contributers](#contributers)
-* [Tests](#tests)
-* [Questions](#questions)
-## Installation
-Before running in the node integrated terminal, be sure install inquier, fs and util.
+
+The purpose of this project was to build a webpage where users search for any city around the world and view the current weather conditions, a 5-day forecast and their history of what cities they searched. Once on the page, users can type in a city of their choice in the text box just below "Search for a City". Under "Today's Weather:" users will be able to view the date, temperature, wind speed, humidity and an icon representation of weather conditions. Click back on cities in your search history to once again view its weather conditions. 
+
 ## Usage
-Run node and enter the information you'd like on your README.md file
+
+Users can follow the link to the deployed webpage to access the weather dashboard. Enter a city around the world of your choice and click "submit" below to access the current weather conditions and the 5-day forecast for that city. Search for a different city to view its weather conditions and see your previous searches stored under "Search History:".
+
+### Webpage Link
+
+Check out a short video demonstrating how to use this application - https://drive.google.com/file/d/1tY1xt-9CLNs-PrZGGdoJpW5i6Me4Cgaj/view
+
+### Webpage Screenshot
+
+![alt text](readme-screenshot.png)
+
+## Credits
+
+This challenge was completed in collaboration with the instructional staff (Diarmuid Murphy), TA (Meg Meyers), tutor (Faran Navazi) and classmates in the February 2023 UCLA Extension Coding Boot Camp.
+
 ## License
-MIT
-## Contributers
-undefined
-## Tests
-Test by entering different information each time to see how it renders.
-## Questions
-If you have any questions regarding this application, please provide your contact information here.
-## Github Username
-Brian-Autieri
-## Email Address
-Brian.Autieri@iCloud.com
+
+MIT License
+
+Copyright (c) 2023 Brian Autieri
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
